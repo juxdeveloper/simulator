@@ -1,0 +1,6 @@
+{
+  "name": "HelixLab — 3D Curvature & Torsion Visualizer",
+  "description": "Interactive 3D differential geometry sandbox for visualizing circular helices, curvature (κ), torsion (τ), the Frenet-Serret moving trihedron, and osculating geometry in Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
